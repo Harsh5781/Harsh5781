@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5781&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5781" /> </p>
 
-- 📫 How to reach me **harshitbargali567@gmail.com**
+- 📫 How to reach me **harshitbargali123@gmail.com**
 
 - ⚡ Fun fact **I think I am inquisitive**
 
