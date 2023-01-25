@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Harshit Bargali</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5781&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5781" /> </p>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring boot** 
 
 - 💬 Ask me about **Node.js , react , mongoDB**
 
 - 📫 How to reach me **harshitbargali123@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1VFg-MU9r_Hc23valhNAdYkKtIoIEZSZ3Ea-5QEz8OpU/edit](https://docs.google.com/document/d/1VFg-MU9r_Hc23valhNAdYkKtIoIEZSZ3Ea-5QEz8OpU/edit)
+
 
 - ⚡ Fun fact **I think I am inquisitive**
 
