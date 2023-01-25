@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5781&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5781" /> </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh5781)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🌱 I’m currently learning **Spring boot** 
 
 - 💬 Ask me about **Node.js , react , mongoDB**
