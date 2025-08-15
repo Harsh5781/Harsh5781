@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring boot** 
 
-- 💬 Ask me about **Node.js, react, mongoDB**
+- 💬 Ask me about **Java, Spring Boot, MongoDB**
 
 - 📫 How to reach me **harshitbargali123@gmail.com**
 
